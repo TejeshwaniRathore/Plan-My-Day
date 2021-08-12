@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995206399156",
+    "project_id": "note-me-master-a6311",
+    "storage_bucket": "note-me-master-a6311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995206399156:android:5d9aca38800bb42456c3e1",
+        "android_client_info": {
+          "package_name": "com.xstudioo.simpledatabasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995206399156-omsecptpuoud0lppk2m9k89eg73tq45t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvAJotDm1oBg68DklXi08THVVTfA-q3Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995206399156-omsecptpuoud0lppk2m9k89eg73tq45t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
